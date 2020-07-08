@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/googleAuth/static/css/main.d1e463b3.chunk.css",
+    "main.js": "/googleAuth/static/js/main.8fd20555.chunk.js",
+    "main.js.map": "/googleAuth/static/js/main.8fd20555.chunk.js.map",
+    "runtime-main.js": "/googleAuth/static/js/runtime-main.7527f68b.js",
+    "runtime-main.js.map": "/googleAuth/static/js/runtime-main.7527f68b.js.map",
+    "static/js/2.8016234f.chunk.js": "/googleAuth/static/js/2.8016234f.chunk.js",
+    "static/js/2.8016234f.chunk.js.map": "/googleAuth/static/js/2.8016234f.chunk.js.map",
+    "index.html": "/googleAuth/index.html",
+    "precache-manifest.3d6cb428f7afd152244d6c3de55d362b.js": "/googleAuth/precache-manifest.3d6cb428f7afd152244d6c3de55d362b.js",
+    "service-worker.js": "/googleAuth/service-worker.js",
+    "static/css/main.d1e463b3.chunk.css.map": "/googleAuth/static/css/main.d1e463b3.chunk.css.map",
+    "static/js/2.8016234f.chunk.js.LICENSE.txt": "/googleAuth/static/js/2.8016234f.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/googleAuth/static/media/crown.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7527f68b.js",
+    "static/js/2.8016234f.chunk.js",
+    "static/css/main.d1e463b3.chunk.css",
+    "static/js/main.8fd20555.chunk.js"
+  ]
+}
